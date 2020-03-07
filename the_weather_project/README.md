@@ -10,12 +10,12 @@ python manage.py runserver
 ```
 #### Screenshots of the App
 
-![](images/img 1.png)
+![](images/img1.png)
 
-![](images/img 2.png)
+![](images/img2.png)
 
-![](images/img 3.png)
+![](images/img3.png)
 
-![](images/img 4.png)
+![](images/img4.png)
 
-![](images/img 5.png)
+![](images/img5.png)
