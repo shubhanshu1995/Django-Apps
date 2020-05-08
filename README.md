@@ -8,7 +8,7 @@
 
 ---
 ## Connect with me on:-
-**Portfolio** [shubhanshu1995](https://shubhanshu1995.github.io/)
+**Portfolio** [shubhanshu1995](https://shubhanshu1995.github.io/)  <br />
 **Linkedin:** [shubhanshu001](https://www.linkedin.com/in/shubhanshu001/) <br />
 **Github:** [shubhanshu1995](https://github.com/shubhanshu1995) <br />
 **Medium:** [@shubhanshu1995](https://medium.com/@shubhanshu1995) <br />
